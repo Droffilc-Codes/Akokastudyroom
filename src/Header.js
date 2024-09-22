@@ -1,6 +1,6 @@
 import React from 'react'
 import './Header.css'
-import logo from './images/logouse.jpg'
+import logo from './images/logo.png'
 import HeaderOptions from './HeaderOptions'
 import { Link } from 'react-router-dom'
 
@@ -19,14 +19,17 @@ function Header() {
         <div className="header__right">
            
 
-            <Link to="/shoes">
-                <HeaderOptions title="Shoes" />
+            <Link to="/regulations">
+                <HeaderOptions title="Regulations" />
             </Link>   
-            <Link to="/bags">
-                <HeaderOptions title="Bags" />
+            <Link to="/Payment">
+                <HeaderOptions title="Payment" />
             </Link>
-            <Link to="/clothes">
-                <HeaderOptions title="Clothes" />
+            <Link to="/Others">
+                <HeaderOptions title="Others" />
+            </Link>
+            <Link to="/Assessment">
+                <HeaderOptions title="Onboarding Assesment" />
             </Link>
 
         </div>

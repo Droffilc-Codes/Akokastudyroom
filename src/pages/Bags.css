@@ -5,9 +5,8 @@
 }
 
 .bag__container{
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 1rem;
+    max-width: 900px;
+ 
 }
 
 .bagShow > img{ 

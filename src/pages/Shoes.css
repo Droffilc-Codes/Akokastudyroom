@@ -5,26 +5,14 @@
 }
 
 .shoes__container{
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 1rem;
+    max-width: 950px;
 }
 
-
-.bagShow > img{ 
-    object-fit: contain;
-    height: 200px;
+li{
+    margin-top: 10px;
+    font-size: 1.5rem;
 }
 
-.bagShow{
-    display:flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    padding: 10px;
-    border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
 
 @media(max-width: 768px){
     .shoes__container{
