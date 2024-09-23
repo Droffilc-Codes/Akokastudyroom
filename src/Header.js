@@ -37,7 +37,6 @@ function Header() {
                         <li>
                             <Link to="/Assessment">
                                 <HeaderOptions title="Onboarding Assesment" />
-                                {/* <HeaderOptions title="Onboarding" /> */}
                             </Link>
                         </li>
 
