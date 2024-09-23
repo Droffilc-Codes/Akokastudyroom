@@ -45,37 +45,7 @@ function Header() {
                 </nav>
             </div>
         </header>
-    
-    // <div className='header'>
-
-    //     <div className="header__left">
-            
-    //         <Link to="/">
-    //             <img src={logo} alt="" />
-    //         </Link>
-                
-        
-    //     </div>
-
-    //     <div className="header__right">
-           
-    //         <Link to="/regulations">
-    //             <HeaderOptions title="Regulations" />
-    //         </Link>   
-            // <Link to="/Payment">
-            //     <HeaderOptions title="Payment" />
-            // </Link>
-    //         <Link to="/Others">
-    //             <HeaderOptions title="Others" />
-    //         </Link>
-    //         <Link to="/Assessment">
-    //             <HeaderOptions title="Onboarding Assesment" />
-    //         </Link>
-
-    //     </div>
-
-    // </div>
-  )
+      )
 }
 
 export default Header
