@@ -129,9 +129,7 @@ function Products() {
           The Rest Room - Leave it better than it was
           Material Assignment - Water, bin,
 
-          Pay ment of contributory fee
-          Internet  - 
-          Young pro and students
+          
 
           Take care of this place
 
