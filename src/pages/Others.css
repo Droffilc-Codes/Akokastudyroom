@@ -5,13 +5,19 @@
 }
 
 .clothes__container{
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 1rem;
+    margin-top: 2rem;
 }
 
+.toilet_image{
+    object-fit: cover;
+    height: 16rem;
+    float: left; 
+    margin-right: 15px;
+    width: 400px; 
+   
+}
 
-.bagShow > img{ 
+/* .bagShow > img{ 
     object-fit: contain;
     height: 200px;
 }
@@ -24,7 +30,7 @@
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
+} */
 
 @media(max-width: 768px){
     .clothes__container{
