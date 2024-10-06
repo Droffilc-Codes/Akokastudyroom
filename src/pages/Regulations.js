@@ -16,7 +16,7 @@ function Regulations() {
             <ul>
               <li>Register to be a member of the study room; </li>
 
-              <li> <Link to="/Payment">Click here to See more details about Registration and Payment instructions</Link> </li>
+              <li> <Link to="/Payment" className='regulations_Link'>Click here to See more details about Registration and Payment instructions</Link> </li>
 
               <li>Phones should be put in vibration/switched off </li>
               <li>No phone calls in the library </li>

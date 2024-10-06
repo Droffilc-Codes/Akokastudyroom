@@ -3,7 +3,7 @@ import classes from './Products.module.css'
 import { Link } from 'react-router-dom'
 
 
-function Products() {
+function Welcome() {
  
   
  
@@ -122,18 +122,14 @@ function Products() {
 
         </p>
 
-        <p>Please Read the Rules and Regulations of the Study Room<Link to="/regulations"> here</Link></p>
+        <p>Please Read the Rules and Regulations of the Study Room by clicking  
+          <span className={classes.header_link}>
+            <Link to="/regulations">  here</Link>
+          </span>
+          </p>
+
         <h3 className={classes.header__subtitle}>
          
-          The Study room - Professional Development, raising the bar, spirit of service
-          The Rest Room - Leave it better than it was
-          Material Assignment - Water, bin,
-
-          
-
-          Take care of this place
-
-
         </h3>
       </div>
 
@@ -141,5 +137,5 @@ function Products() {
   )
 }
 
-export default Products
+export default Welcome
 

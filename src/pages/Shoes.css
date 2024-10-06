@@ -13,6 +13,9 @@ li{
     font-size: 1.5rem;
 }
 
+.shoes__container .regulations_Link{
+    color: blue;
+}
 
 @media(max-width: 768px){
     .shoes__container{

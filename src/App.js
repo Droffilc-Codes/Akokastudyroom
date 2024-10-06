@@ -7,7 +7,7 @@ import Others from './pages/Others'
 import Assessment from './pages/Assessment';
 import Regulations from './pages/Regulations'
 import { Fragment } from 'react';
-import Products from './Products';
+import Welcome from './Welcome';
 
 
 
@@ -29,7 +29,7 @@ function App() {
             <Route path='/' element={
               
               <Fragment>
-                <Products />
+                <Welcome />
               </Fragment>
             } />
            
