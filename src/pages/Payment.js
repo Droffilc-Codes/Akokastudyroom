@@ -25,8 +25,8 @@ function Payment() {
               <li>Monthly subscription plus Unlimited Internet Service: Professionals contribute ₦15,000 </li>
 
               <h2 className='Heading'>Important Instructions</h2>
-              <li>Monthly subscription paid from the 20th of each month will be higer at ₦2,500. You won't pay for the next month. It covers the 10 days of current month and 30 days of the next month  </li>
-              <li>Monthly subscription paid from the 20th of each month will be ₦5,000 for Professionals  </li>
+              <li>Monthly subscription paid from the 20th of each month will be higer at ₦3,500. You won't pay for the next month. It covers the 10 days of current month and 30 days of the next month  </li>
+              <li>Monthly subscription paid from the 20th of each month will be ₦7,500 for Professionals  </li>
               <li>Monthly subscription must be paid within the first 10 days of each month</li>
               <li>Monthly subscription not paid for after 3 months may lead to expulsion and ban by the Management of Akoka Study Centre</li>
               <li>The Internet connection is disconnected every 10th of the month if contribution has not been made</li>

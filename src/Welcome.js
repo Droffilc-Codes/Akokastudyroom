@@ -129,7 +129,7 @@ function Welcome() {
           </p>
 
         <h3 className={classes.header__subtitle}>
-         
+          For the purpose of Registration, kindly go through all the menu: Regulations, Payment, Others and Onboarding.
         </h3>
       </div>
 

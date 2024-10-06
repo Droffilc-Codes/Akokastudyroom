@@ -25,7 +25,7 @@ function Others() {
               </div>
               <div>
                 <p>The Toilet by the Study room is meant for visitors and members of the Study room. A rule thumb is that the toilet is clean only when you can eat comfortably in it. For that reason, it is imperative to ensure that it is clean. If you come to make use of the toilet, the objective is to leave it better than you met it. What does this entail? It means that you will have to ensure that the bowl is clean, the seat is clean, and the floor is clean. A piece of tissue paper can be used to clean the seats and the bowl or in some cases the brush can be applied.</p>
-                <p>We have the bucket underneath the handwash basin. You can get water from the tap underneath the basing to flush hard </p>
+                <p>We have the bucket underneath the handwash basin. You can get water from the tap underneath the basing to flush diehards </p>
                 <ul>
                   <li>Always close the door behind you when entering the restroom to maintain privacy and respect for others.</li>
                   <li>Stand close to the toilet seat to avoid dripping</li>
@@ -40,12 +40,12 @@ function Others() {
 
             <div className='main-2'>
               <h2>Power Usage and Consumption</h2>
-              <p>We try to provide power to the house from two and in some cases three sources. There is an Inverter for backup and the power from the grid. Power has become very expensive, hence it is everybody's responsibility to manage consumpton. When you become a member of the study room, you have also become a caretaker and responsible for the running of the house. It is everyone's duty to remind others about the need to take care of consumption. Unplugging the laptop when already full is a good action. It is also important to know that bring powerbanks to charge with the inverter when there is a national blackout is not fair. It consumes the backup battery and makes it difficult for the residents of Akoka to make use of electrci power when they get back home from their various work places. Be conscious of this.</p>
+              <p>We try to provide power to the house from two and in some cases three sources. There is an Inverter for backup and the power from the grid. Power has become very expensive, hence it is everybody's responsibility to manage consumpton. When you become a member of the study room, you have also become a caretaker and responsible for the running of the house. It is everyone's duty to remind others about the need to take care of consumption. Unplugging the laptop when already full is a good action. It is also important to note that charging powerbanks with the inverter when there is a national blackout is not fair. It consumes the backup battery and makes it difficult for the residents of Akoka to make use of power when they get back home from their various work places. Be conscious of this.</p>
             </div>
 
             <div className='main-2'>
               <h2>Donations</h2>
-              <p>Akoka Study Centre is sustained by the donations made by people of goodwill including past members of the Study room who have benefited tremendously. This project started in 1992 and for us to leave it better for the next generation we must sustain it. Your doations are welcome. If you know anyone who might be interested in supporting this project, do not hesitate to contact any of the Residents of Akoka Study Centre</p>
+              <p>Akoka Study Centre is sustained by the donations made by people of goodwill including past members of the Study room who have benefited tremendously. This project started in 1992 and for us to leave it better for the next generation we must sustain it. Your donations are welcome. If you know anyone who might be interested in supporting this project, do not hesitate to contact any of the Residents of Akoka Study Centre</p>
             </div>
 
             <div className='main-2'>
@@ -55,7 +55,7 @@ function Others() {
 
             <div className='main-2'>
               <h2>Study Programs </h2>
-              <p>We are very concerned about the performance of students who make use of the study room. We expect that each student meets a minimum academic performance. In future, students will only be allowed to continue using the study room only when they can provide their yearly academic performance.
+              <p>We are very concerned about the performance of students who make use of the study room. We expect that each student meets a minimum academic performance. In future, students will be allowed to continue using the study room only when they can provide their yearly academic performance.
               To ensure that students meet up with academic standards, we have a number of study programs; First Class Workshop for freshmen, Study Camps, Study and the Methods, and our new project: STUDY SUBMARINE. Watchout for these study programs.
               </p>
             </div>
