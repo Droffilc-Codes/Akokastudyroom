@@ -8,3 +8,9 @@
     max-width: 900px;
  
 }
+
+.assessmentLink p{
+    margin-top: 3rem;
+    color: blue;
+    font-weight: 600;
+}
