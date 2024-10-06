@@ -31,9 +31,11 @@ function Regulations() {
               <li> A minimum decorum is expected in dressing: wearing sleeveless vest, shorts, and bathroom slippers to library is not allowed.</li>
               <li>Removal of clothing or shoes is not allowed as in most cases it releases an odor unpleasant to other users in the environment. </li>
               <li>Avoid touching the walls and curtains or library chairs with soiled hand </li>
+              <li>Do not rest your legs on other chairs or on the bars holding the table so that they can last longer</li>
               <li>If found watching movies in the study room consistently, user's membership will be suspended </li>
               <li>Please sign in and sign out daily with the book at the entrance of the study room </li>
               <li>Once it is 7pm ensure that the gate of the study room is pulled down and locked. The entrance door should be locked as well for safety reasons. </li>
+              <li>The centre opens at 10am and closes at 9 pm daily. Weekends: Opens at 9 am and closes at 9 pm.</li>
             </ul>
         </div> 
     </div>

@@ -32,6 +32,16 @@
     margin-bottom: 1rem;
 }
 
+.main p{
+    font-size: 1.2rem;
+}
+
+.main ul li{
+    font-size: 1.2rem;
+}
+.main-2 p{
+    font-size: 1.2rem;
+}
 
 @media(max-width: 768px){
     .clothes__container{

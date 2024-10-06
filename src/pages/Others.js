@@ -11,19 +11,10 @@ function Others() {
   return (
     <Fragment>
     <div className='Others_heading'>
-      <h3>Others to select from</h3>
   
 
       <div className="Others__container">
-          {/* <p>Spirit of Servince</p>
-
-          <p>How to take care of the Toilet</p>
-          <p>Power Usage and Consumption</p>
-          <p>Donation</p>
-          <p>List of material Assignment</p>
-          <p>Announcement and News</p>
-          <p>Straight A club</p> */}
-
+        
               <h3 className='Restroom_Text'>Using the Restroom </h3>
       
             <div className='main'>
@@ -47,9 +38,26 @@ function Others() {
             </div>
 
 
-            <div>
+            <div className='main-2'>
               <h2>Power Usage and Consumption</h2>
               <p>We try to provide power to the house from two and in some cases three sources. There is an Inverter for backup and the power from the grid. Power has become very expensive, hence it is everybody's responsibility to manage consumpton. When you become a member of the study room, you have also become a caretaker and responsible for the running of the house. It is everyone's duty to remind others about the need to take care of consumption. Unplugging the laptop when already full is a good action. It is also important to know that bring powerbanks to charge with the inverter when there is a national blackout is not fair. It consumes the backup battery and makes it difficult for the residents of Akoka to make use of electrci power when they get back home from their various work places. Be conscious of this.</p>
+            </div>
+
+            <div className='main-2'>
+              <h2>Donations</h2>
+              <p>Akoka Study Centre is sustained by the donations made by people of goodwill including past members of the Study room who have benefited tremendously. This project started in 1992 and for us to leave it better for the next generation we must sustain it. Your doations are welcome. If you know anyone who might be interested in supporting this project, do not hesitate to contact any of the Residents of Akoka Study Centre</p>
+            </div>
+
+            <div className='main-2'>
+              <h2>Material Assignment </h2>
+              <p>Each person can contribute to the sustainability of Akoka Study Centre by doing some small task such as ensuring that the lights and fans are turned off when not needed. Seats and tables are put in order. Windows are closed at the end of the day and opened at the begining of the day. Please be open to small tasks such as these when assigned to do them. Do it diligently and responsibly. </p>
+            </div>
+
+            <div className='main-2'>
+              <h2>Study Programs </h2>
+              <p>We are very concerned about the performance of students who make use of the study room. We expect that each student meets a minimum academic performance. In future, students will only be allowed to continue using the study room only when they can provide their yearly academic performance.
+              To ensure that students meet up with academic standards, we have a number of study programs; First Class Workshop for freshmen, Study Camps, Study and the Methods, and our new project: STUDY SUBMARINE. Watchout for these study programs.
+              </p>
             </div>
       </div>
       
