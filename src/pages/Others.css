@@ -1,39 +1,44 @@
-.clothes{
+.Others_heading{
     max-width: 1100px;
     margin: 50px auto;
     padding: 0 2rem;
 }
 
-.clothes__container{
+.Others__container{
     margin-top: 2rem;
 }
 
 .toilet_image{
     object-fit: cover;
-    height: 16rem;
-    float: left; 
-    margin-right: 15px;
-    width: 400px; 
-   
+    height: 10rem;
+    max-width: 40rem;
 }
 
-/* .bagShow > img{ 
-    object-fit: contain;
-    height: 200px;
+.main{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.5rem;
 }
 
-.bagShow{
-    display:flex;
+.pics{
+    margin: auto;
+    text-align: center;
+    display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    padding: 10px;
-    border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-} */
+}
+
+.Restroom_Text{
+    font: size 300px;
+    margin-bottom: 1rem;
+}
+
 
 @media(max-width: 768px){
     .clothes__container{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .main{
         display: grid;
         grid-template-columns: repeat(1, 1fr);
     }
